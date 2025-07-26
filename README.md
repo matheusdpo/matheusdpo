@@ -1,7 +1,5 @@
 # Matheus Oliveira | Greetings from Brazil 🇧🇷
 
-## Backend Developer | Java | Spring | Go | Python | PostgreSQL | MongoDB | Docker | RabbitMQ | AWS
-
 I am a passionate backend developer focused on creating robust and scalable solutions. I work with modern technologies to build systems that make a difference.
 
 ### 🛠️ Technologies and Tools
